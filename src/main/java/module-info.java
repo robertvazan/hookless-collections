@@ -1,4 +1,4 @@
-// Part of Hookless: https://hookless.machinezoo.com
+// Part of Reactive collections for Hookless: https://hookless.machinezoo.com/collections
 import com.machinezoo.stagean.*;
 
 /**

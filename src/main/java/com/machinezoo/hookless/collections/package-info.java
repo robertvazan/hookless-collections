@@ -1,4 +1,4 @@
-// Part of Hookless: https://hookless.machinezoo.com
+// Part of Reactive collections for Hookless: https://hookless.machinezoo.com/collections
 /**
  * Reactive wrappers for {@link java.util} collections.
  * See {@link ReactiveCollections}.
