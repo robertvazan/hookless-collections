@@ -18,7 +18,6 @@ class Project(scaffold.Java):
         yield self.use_hookless()
         yield self.use_junit()
         yield self.use_hamcrest()
-        yield self.use_slf4j_test()
     
     def javadoc_links(self):
         yield from super().javadoc_links()

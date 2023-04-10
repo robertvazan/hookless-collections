@@ -66,12 +66,6 @@
 			<version>2.2</version>
 			<scope>test</scope>
 		</dependency>
-		<dependency>
-			<groupId>com.github.valfirst</groupId>
-			<artifactId>slf4j-test</artifactId>
-			<version>2.3.0</version>
-			<scope>test</scope>
-		</dependency>
 	</dependencies>
 
 	<build>
