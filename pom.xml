@@ -7,7 +7,7 @@
 	<artifactId>hookless-collections</artifactId>
 	<version>0.1.0</version>
 
-	<name>Reactive collections</name>
+	<name>Reactive collections for Hookless</name>
 	<description>Hookless reactive adapter for Java collections.</description>
 
 	<url>https://hookless.machinezoo.com/collections</url>
