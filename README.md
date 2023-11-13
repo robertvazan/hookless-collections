@@ -3,11 +3,11 @@
 
 # Reactive collections for Hookless
 
-[![Maven Central](https://img.shields.io/maven-central/v/com.machinezoo.hookless/hookless-collections)](https://search.maven.org/artifact/com.machinezoo.hookless/hookless-collections)
+[![Maven Central](https://img.shields.io/maven-central/v/com.machinezoo.hookless/hookless-collections)](https://central.sonatype.com/artifact/com.machinezoo.hookless/hookless-collections)
 [![Build status](https://github.com/robertvazan/hookless-collections/workflows/build/badge.svg)](https://github.com/robertvazan/hookless-collections/actions/workflows/build.yml)
 [![Test coverage](https://codecov.io/gh/robertvazan/hookless-collections/branch/master/graph/badge.svg)](https://codecov.io/gh/robertvazan/hookless-collections)
 
-Reactive collections as implemented in [`ReactiveCollections`](https://hookless.machinezoo.com/javadocs/core/com.machinezoo.hookless/com/machinezoo/hookless/util/ReactiveCollections.html) class
+Reactive collections as implemented in [`ReactiveCollections`](https://hookless.machinezoo.com/javadocs/collections/com.machinezoo.hookless.collections/com/machinezoo/hookless/collections/ReactiveCollections.html) class
 are [reactive adapters](https://hookless.machinezoo.com/adapters) for Java collections.
 Reactive collections wrap Java collections and turn them into reactive data source as long as all accesses are mediated by the wrapper.
 Reactive collections will wake up dependent reactive computations whenever relevant write is made to the collection.
